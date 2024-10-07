@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawa-3292&label=Profile%20views&color=0e75b6&style=flat" alt="dawa-3292" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Mobile Development.**
 - 📫 How to reach me: **dawatmng16@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
