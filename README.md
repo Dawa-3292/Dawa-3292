@@ -52,16 +52,17 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dawa-3292&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="175" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawa-3292&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="175" />
-  
-  <br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dawa-3292&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawa-3292&layout=compact&theme=radical" height="170"/>
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawa-3292&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dawa-3292&theme=radical"/>
+</p>
+
 
 ---
+
